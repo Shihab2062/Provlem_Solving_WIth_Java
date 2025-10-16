@@ -61,5 +61,5 @@ All solutions are implemented **manually without relying on built-in shortcuts (
 ### 1️⃣ Clone the Repository
 Open your terminal or command prompt and run:
 ```bash
-git clone https://github.com/yourusername/java-assignments.git
-cd java-assignments
+git clone https://github.com/yourusername/Java-Assignments.git
+cd Java-Assignments
